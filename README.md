@@ -2,7 +2,7 @@
 <h1 align="center"><em> Conf BS:AS </em></h1>
 
 ![codo](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/72586a38-6711-4e8b-929b-81fbdc7cdd44)
-![htmlcssjs-details](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/36392a4b-2c81-41e0-a69f-1671003ee0cd)
+![htmlcssjs-details](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/78760a71-0af6-4375-9f3e-0d3288b88598)
 
 ![bootstrap-square-logo](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/e5a5d251-bcfe-4eca-aa8a-29b6b7c4d383)
 
