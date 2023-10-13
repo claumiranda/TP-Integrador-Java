@@ -5,8 +5,8 @@
 </h4>
 
 ![codo](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/72586a38-6711-4e8b-929b-81fbdc7cdd44)
-
 ![htmlcssjs-details](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/8c70a712-47b3-4d6d-9cf1-3704c195dfc7)
+
 ![bootstrap-square-logo](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/e5a5d251-bcfe-4eca-aa8a-29b6b7c4d383)
 
 ![php](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/fbf5982f-f580-41de-8857-3172ccfa06a2)
