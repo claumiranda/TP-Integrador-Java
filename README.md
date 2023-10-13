@@ -1,2 +1,3 @@
-# Claudia-Integrador
-Rama de apoyo  del proyecto Funkoshop
+# Claudia-TP Integrador Java
+
+Conf BS:AS
