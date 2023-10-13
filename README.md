@@ -10,4 +10,4 @@ Conf BS:AS
 ![git logo](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/47b4d631-b62d-4733-911b-e1ccfcc1d32e)
 ![Logo_github](https://github.com/claumiranda/TP-Integrador-Java/assets/133828623/3aa1cbd1-813e-4a33-a0f4-9f47e757c7de)
 
-<a href="https://www.flaticon.es/iconos-gratis/github" title="github iconos">Github iconos creados por Pixel perfect - Flaticon</a>
+
